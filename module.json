@@ -1,4 +1,4 @@
-{
+{   "id":"PF2E macro helpers",
     "name":"pf2e macro-helpers",
     "title":"PF2E Macro Helpers",
     "description":"A foundry module of a lidrary of functions that I find helpfull and use for my macros all the time",
@@ -8,6 +8,7 @@
         "minimum": "10",
         "verified": "11"
       },
-      "scripts":["init.js"],
-      "url":"https://github.com/KatsikadakosThomas/PF2E-macro-helpers"
+      "esmodules":["scripts/module.js"],
+      "url":"https://github.com/KatsikadakosThomas/PF2E-macro-helpers",
+      "system": ["pf2e"]
  }
